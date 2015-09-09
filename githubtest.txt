@@ -1,6 +1,2 @@
 hello, github
-hello,
-ehlo
-hello
 
-thanks, github
