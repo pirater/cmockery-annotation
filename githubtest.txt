@@ -1,7 +1,4 @@
 hello, github
-hello,
-ehlo
-hello
 
 thanks, github
 asodfo asf as
